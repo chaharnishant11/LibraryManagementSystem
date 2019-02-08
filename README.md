@@ -1,4 +1,4 @@
-# LibraryManagementSystem
+# Library Management System
 This is a Database Management project for managing the functioning of a Library. 
 This Project is Made using NetBeans and Mysql.
 Features Include:
